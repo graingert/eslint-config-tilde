@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-tilde",
+  "version": "1.0.0",
+  "description": "import ~/.eslintrc.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expand-home-dir": "^0.0.3"
+  }
+}
